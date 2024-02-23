@@ -1,24 +1,20 @@
 body {
     background-color: black;
     color: white;
-    text-align: center; /* Center align all text */
-}
-
-.countdown-container {
-    margin-top: 100px;
     font-family: Arial, sans-serif;
-    margin: 0 auto; /* Center the container horizontally */
-    text-align: left; /* Reset text alignment inside the container */
-    width: fit-content; /* Set width to fit content */
+    text-align: center; /* Center align all text */
+    margin: 0; /* Reset default body margin */
+    display: flex; /* Use flexbox for centering */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 100vh; /* Ensure full viewport height */
 }
 
 #countdown {
     font-size: 36px;
-    text-align: center; /* Center align the countdown text */
 }
 
 h1 {
     font-family: "Gotham Narrow", Arial, sans-serif;
-    font-size: 50px;
-    text-align: center; /* Center align all h1 elements */
+    font-size: 80px;
 }
