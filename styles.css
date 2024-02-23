@@ -12,3 +12,8 @@ body {
 #countdown {
     font-size: 36px;
 }
+
+/* Apply Gotham Narrow font to h1 elements */
+h1 {
+    font-family: "Gotham Narrow", Arial, sans-serif;
+}
