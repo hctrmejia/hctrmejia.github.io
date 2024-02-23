@@ -8,6 +8,7 @@ body {
     justify-content: center; /* Center horizontally */
     align-items: center; /* Center vertically */
     height: 100vh; /* Ensure full viewport height */
+    line-height: 0.6; /* Adjust line spacing for h1 */
 }
 
 #countdown {
@@ -17,5 +18,4 @@ body {
 h1 {
     font-family: "Gotham Narrow", Arial, sans-serif;
     font-size: 80px;
-    line-height: 0.6; /* Adjust line spacing for h1 */
 }
