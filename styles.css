@@ -1,7 +1,6 @@
 body {
     background-color: black;
     color: white;
-    font-family: Arial, sans-serif;
     text-align: center; /* Center align all text */
 }
 
@@ -19,5 +18,6 @@ body {
 
 h1 {
     font-family: "Gotham Narrow", Arial, sans-serif;
+    font-size: 50px;
     text-align: center; /* Center align all h1 elements */
 }
