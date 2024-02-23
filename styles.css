@@ -7,15 +7,14 @@ body {
 
 .countdown-container {
     margin-top: 100px;
-    display: inline-block; /* Center the container horizontally */
+    margin: 0 auto; /* Center the container horizontally */
     text-align: left; /* Reset text alignment inside the container */
+    width: fit-content; /* Set width to fit content */
 }
 
 #countdown {
     font-size: 36px;
-    display: inline-block; /* Center the countdown horizontally */
     text-align: center; /* Center align the countdown text */
-    width: 100%; /* Ensure the countdown takes up full width */
 }
 
 h1 {
