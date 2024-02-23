@@ -1,5 +1,5 @@
 // Set the date to count down to (Year, Month (0-11), Day, Hour, Minute, Second)
-const countdownDate = new Date("2025-4-1T00:00:00").getTime();
+const countdownDate = new Date("2025-04-1T00:00:00").getTime();
 
 // Update the countdown every second
 const countdownTimer = setInterval(function() {
