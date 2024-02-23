@@ -1,5 +1,5 @@
-<script>
 <p id="countdown"></p>  
+<script>
 // Set the date we're counting down to
 var countDownDate = new Date("Apr 1, 2025 00:00:00").getTime();
 
