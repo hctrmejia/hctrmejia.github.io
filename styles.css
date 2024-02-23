@@ -17,4 +17,5 @@ body {
 h1 {
     font-family: "Gotham Narrow", Arial, sans-serif;
     font-size: 80px;
+    line-height: 1.2; /* Adjust line spacing for h1 */
 }
