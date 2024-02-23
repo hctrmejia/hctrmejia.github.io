@@ -8,7 +8,7 @@ body {
     justify-content: center; /* Center horizontally */
     align-items: center; /* Center vertically */
     height: 100vh; /* Ensure full viewport height */
-    line-height: 0.6; /* Adjust line spacing for h1 */
+    line-height: 0.3; /* Adjust line spacing for h1 */
 }
 
 #countdown {
