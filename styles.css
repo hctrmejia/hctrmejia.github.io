@@ -6,6 +6,7 @@ body {
 
 .countdown-container {
     margin-top: 100px;
+    font-family: Arial, sans-serif;
     margin: 0 auto; /* Center the container horizontally */
     text-align: left; /* Reset text alignment inside the container */
     width: fit-content; /* Set width to fit content */
